@@ -1,0 +1,112 @@
+{
+  "streams": [
+    {
+      "videoId": "c212qMUTnEs",
+      "videoName":  "LabPadre Nerdle Cam",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "YNu0ygC0njE",
+      "videoName":  "LabPadre Lab Cam",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "LP3m2L_hkA4",
+      "videoName":  "LabPadre Sapphire Cam",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "IQV0DlS1Ew0",
+      "videoName":  "LabPadre Sentinel",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "qw3uaLRrYNY",
+      "videoName":  "LabPadre Rocket Ranch Cam",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "tS2PHJmvJzo",
+      "videoName":  "LabPadre Rover 2",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "OLrmlRbwTik",
+      "videoName":  "LabPadre Rover 1",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "EiKm0TgbVdg",
+      "videoName":  "LabPadre Multi Plex",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "FTw5xuq2swo",
+      "videoName":  "LabPadre Gator Cam",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "uH1W01t_lGc",
+      "videoName":  "LabPadre Cape Cam",
+      "watermark": "LabPadreV2"
+    },
+    {
+      "videoId": "mhJRzQsLZGg",
+      "videoName":  "NSF Starbase Live",
+      "watermark": "NSF"
+    },
+    {
+      "videoId": "cOmmvhDQ2HM",
+      "videoName":  "NSF McGregor Live",
+      "watermark": "NSF"
+    },
+    {
+      "videoId": "Jm8wRjD3xVA",
+      "videoName":  "NSF Space Coast Live",
+      "watermark": "NSF"
+    },
+    {
+      "videoId": "U3ERnA7MJuI",
+      "videoName":  "WAI Starbase 24/7",
+      "watermark": "WAI"
+    }
+  ],
+  "brands": [
+    {
+      "displayName": "Everyday Astronaut",
+      "fileName": "EDA"
+    },
+    {
+      "displayName": "Lab Padre",
+      "fileName": "LabPadreV2"
+    },
+    {
+      "displayName": "NasaSpaceflight",
+      "fileName": "NSF"
+    },
+    {
+      "displayName": "RGV Arial Photography",
+      "fileName": "RGVNew"
+    },
+    {
+      "displayName": "Rocket Ranch",
+      "fileName": "RocketRanch"
+    },
+    {
+      "displayName": "Space Flight Now",
+      "fileName": "SFN"
+    },
+    {
+      "displayName": "Starship Gazer",
+      "fileName": "StarshipGazerV4"
+    },
+    {
+      "displayName": "The Launch Pad",
+      "fileName": "TLP"
+    },
+    {
+      "displayName": "What About It?",
+      "fileName": "WAI"
+    }
+  ]
+}
